@@ -9,8 +9,7 @@
     * Verify the email address to activate the account.
 
 2. Join the project organization:
-    * Add GitHub username/email to this [spreadsheet](https://docs.google.com/spreadsheets/d/10z6105uoeo9JuCF7bWTYhBOxzNvehRbvupYppTwtSrk/edit?gid=0#gid=0)
-    * Accept the organization invitation sent by Shawon/Min/Victor
+    * Accept the organization invitation
 
 3. Generate a Personal Access Token (PAT):
     * Go to *Settings* -> *Developer settings* -> *Personal access tokens* -> *Tokens (Classics)* or *Fine-grained personal access tokens* -> *Generate new token*.
